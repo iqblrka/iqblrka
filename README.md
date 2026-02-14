@@ -25,6 +25,23 @@
 [![](https://visitcount.itsvg.in/api?id=iqblrka&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Cen!+%F0%9F%91%8B;Mahasiswa+D4+Informatika;Pengembang+Web+%26+IoT;Mencintai+Teknologi+dan+Kopi" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Politeknik+Negeri+Jember;Programmer+by+day,+dreamer+by+night" alt="Subheader" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=cen&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
 
 
 
