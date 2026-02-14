@@ -84,7 +84,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[USERNAME_KAMU]/[USERNAME_KAMU]/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/iqblrka/iqblrka/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
