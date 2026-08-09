@@ -1,11 +1,4 @@
-# iqblrka
 
-> Maintainer credibility and contributor clarity.
-
-**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
-## Header
-Hi, I'm **iqblrka**. This README is tuned for **open source** with a Neon visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=iqblrka&theme=neon&mode=light" />
