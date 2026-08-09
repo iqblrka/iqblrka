@@ -29,7 +29,9 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 ## Connect
-Website: iqball.vercel.app · LinkedIn: https://www.linkedin.com/in/muhammad-iqbal-rakha/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B6ktHCiHLSnmxkgiO7NE8nA%3D%3D · Email: muhammad.iqbal.rakha@gmail.com
+Website: https://www.iqball.vercel.app · 
+LinkedIn: https://www.linkedin.com/in/muhammad-iqbal-rakha/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B6ktHCiHLSnmxkgiO7NE8nA%3D%3D · 
+Email: muhammad.iqbal.rakha@gmail.com
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=iqblrka&theme=neon&website=iqball.vercel.app&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuhammad-iqbal-rakha%2Fen%2F%3Flipi%3Durn%253Ali%253Apage%253Ad_flagship3_feed%253B6ktHCiHLSnmxkgiO7NE8nA%253D%253D&email=muhammad.iqbal.rakha%40gmail.com&mode=light" />
